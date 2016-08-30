@@ -1,0 +1,11 @@
+debug
+
+
+
+        #self.wfile.write("<html><body><h1>GET</h1>"  +
+        #                 " <br> UrlParse= " + str(url_parsed_request) +
+        #                "<br> URLParse as Dict" + str(urlparse.parse_qs(query)) +
+         #               "<br> MS =" + str(messageSet) +
+          #              "<br> MG = " + str(messageGet) +
+                       #  "<br> Query " + str(url_parsed_request.query) +
+           #              "</body></html>")
